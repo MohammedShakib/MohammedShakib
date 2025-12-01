@@ -20,11 +20,16 @@
 ---
 
 ### 📊 GitHub Stats
+
+| **My GitHub Stats** | **Most Used Languages** |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=MohammedShakib&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedShakib&layout=compact&theme=tokyonight) |
+
+<br>
+
 <div align="center">
-  <a href="https://github.com/MohammedShakib">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammedShakib&show_icons=true&theme=tokyonight" alt="Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedShakib&layout=compact&theme=tokyonight" alt="Languages" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedShakib&theme=tokyonight&hide_border=true" alt="Current Streak" />
+</div>
   
   <br/>
   
