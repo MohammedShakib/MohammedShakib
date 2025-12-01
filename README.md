@@ -21,13 +21,15 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedShakib&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/MohammedShakib">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammedShakib&show_icons=true&theme=tokyonight" alt="Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedShakib&layout=compact&theme=tokyonight" alt="Languages" />
+  </a>
   
-  <br/> <br/>
+  <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedShakib&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedShakib&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
-
 <br>
 
 ### 💻 Skills Breakdown
