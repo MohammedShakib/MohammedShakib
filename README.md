@@ -18,13 +18,11 @@
 </div>
 
 ---
-
 ### 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/MohammedShakib">
-    <img src="https://github-readme-stats.vercel.app/api?username=MohammedShakib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  </a>
-</div>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MohammedShakib&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammedShakib&theme=tokyonight)
 
 <br>
 
