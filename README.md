@@ -19,10 +19,13 @@
 
 ---
 ### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MohammedShakib&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammedShakib&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedShakib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <br/> <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedShakib&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <br>
 
