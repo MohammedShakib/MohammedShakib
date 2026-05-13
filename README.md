@@ -10,7 +10,7 @@
 
 <!-- ========== TYPING TITLE ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mohammed+Shakib;CSE+Student+%40+UIU;Frontend+Developer+%7C+DevOps+Enthusiast;Building+the+future%2C+one+line+of+code+at+a+time." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:8a2be2&height=220&section=header&text=Mohammed%20Shakib&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=60&descSize=18" />
 </p>
 
 <!-- ========== SOCIALS ========== -->
