@@ -5,12 +5,12 @@
 
 <!-- ========== HEADER WAVE / BANNER ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:8a2be2&height=220&section=header&text=Mohammed%20Shakib&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%26%20ML%20Enthusiast&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00f0ff,100:8a2be2&amp;height=220&amp;section=header&amp;text=Mohammed%20Shakib&amp;fontSize=45&amp;fontAlignY=35&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Full%20Stack%20Developer%20%26%20ML%20Enthusiast&amp;descAlignY=60&amp;descSize=18" />
 </p>
 
 <!-- ========== TYPING TITLE ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mohammed+Shakib;CSE+Student+%40+UIU;Full+Stack+Developer+%26+ML+Enthusiast;Building+the+future%2C+one+line+of+code+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1300&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Mohammed+Shakib;CSE+Student+%40+UIU;Full+Stack+Developer+%26+ML+Enthusiast;Building+the+future%2C+one+line+of+code+at+a+time." alt="Typing SVG" />
 </p>
 
 <!-- ========== SOCIALS ========== -->
@@ -98,7 +98,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:00f0ff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8a2be2,100:00f0ff&amp;height=120&amp;section=footer" />
 </p>
 
 <p align="right">
