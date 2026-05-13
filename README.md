@@ -10,7 +10,7 @@
 
 <!-- ========== TYPING TITLE ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Mohammed+Shakib;Full+Stack+Developer+ML;CSE+Student+@+UIU" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Mohammed+Shakib;Full+Stack+Developer+%26+ML+Enthusiast;CSE+Student+%40+UIU&v=20260513" alt="Typing Animation" />
 </p>
 
 <!-- ========== SOCIALS ========== -->
@@ -104,3 +104,4 @@
 <p align="right">
   <sub><i>Updated: 2025 · Crafted in cyber-neon 🧬</i></sub>
 </p>
+
