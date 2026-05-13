@@ -57,17 +57,17 @@
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MohammedShakib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammedShakib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=21600&v=20260513"
     alt="GitHub Stats"
   />
   <br/><br/>
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=MohammedShakib&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=MohammedShakib&theme=tokyonight&hide_border=true&cache_seconds=1800&v=20260513"
     alt="GitHub Streak"
   />
   <br/><br/>
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib&theme=react-dark&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib&theme=react-dark&hide_border=true&area=true&cache_seconds=1800&v=20260513"
     alt="Contribution Graph"
   />
 
