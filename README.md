@@ -79,7 +79,11 @@
 
 ## 🛠️ IDEs / GUIs I Like
 
-
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Git%20Bash-111827?style=for-the-badge&logo=git&logoColor=fb923c" />
+  <img src="https://img.shields.io/badge/Figma-020617?style=for-the-badge&logo=figma&logoColor=fb7185" />
+</p>
 
 ---
 
