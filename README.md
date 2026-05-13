@@ -65,6 +65,8 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=MohammedShakib&theme=tokyonight&hide_border=true&cache_seconds=1800&v=20260513"
     alt="GitHub Streak"
   />
+  <br/>
+  <sub><i>Note: Streak card can lag by 12-24 hours and is usually calculated in UTC day boundaries.</i></sub>
   <br/><br/>
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedShakib&theme=react-dark&hide_border=true&area=true&cache_seconds=1800&v=20260513"
